@@ -14,7 +14,7 @@ def fact():
 def ln():
     num = float(input("Enter a number: "))
     result = math.log(num)
-    print("Natural logarithm of {} = {}".format(num, result))
+    print("Natural logarithm of {} = {}".format(num, result))  #function for log
 
 def power():
     base = float(input("Enter the base: "))
